@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author sueda
+ *
+ */
+module oop
+{
+}
